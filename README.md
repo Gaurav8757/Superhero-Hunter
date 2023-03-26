@@ -1,4 +1,4 @@
-# Superhero-Hunter not showing background after hosting so use on local sever
+# Superhero-Hunter
 Background after hosting NOT SHOW so use on local sever
 
 
