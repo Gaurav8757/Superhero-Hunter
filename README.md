@@ -1,5 +1,5 @@
 # Superhero-Hunter
-Background after hosting NOT SHOW so use on local sever
+
 
 
 ![SuperhERO-DARK-MODE](https://user-images.githubusercontent.com/94515205/227783421-22a85697-e7ca-4755-8b2a-6d1121705529.png)
